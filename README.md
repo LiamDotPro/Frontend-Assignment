@@ -64,6 +64,6 @@ Night/Light Mode which restyles the app globally
 
 Optional:
 
-Users can choose to open another panel which shows the same information listed above for but for any other currency other than the one selected
+Users can choose to open another panel which shows the same information listed above but for a different currency than the one already selected
 
 # Notes
