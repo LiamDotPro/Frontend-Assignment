@@ -16,7 +16,7 @@ Other than the above your more than welcome to use anything that you think might
 
 # Submission Requirements
 
-This assignment should take no longer than 4 hours, though feel free to take a little longer if it's required.
+This assignment should take no longer than 4 hours, though feel free to take a little longer if it's required. If you're uncertain about anything during the assignment let us know, and we can try to provide some guidance.
 
 1) Firstly you should fork or clone this repository to your own account and all work should be done alongside the files here (were expecting to see a professional commit history). 
 2) The code that you submit should be considered production ready, submissions which keep this in mind often come across better.
@@ -65,5 +65,7 @@ Night/Light Mode which restyles the app globally
 Optional:
 
 Users can choose to open another panel which shows the same information listed above but for a different currency than the one already selected
+
+Please provide any tests you think are appropriate alongside the final submission, though they are optional.
 
 # Notes
